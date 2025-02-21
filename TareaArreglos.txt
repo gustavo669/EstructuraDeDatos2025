@@ -6,4 +6,4 @@ Nombre completo
 	Gustavo Adolfo Godoy Barrera
 
 Enlace
-	https://github.com/gustavo669/EstructuraDeDatos2025c
+	https://github.com/gustavo669/EstructuraDeDatos2025
